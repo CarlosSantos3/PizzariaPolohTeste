@@ -9,3 +9,6 @@ C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolo
 C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.exe.config
 C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.exe
 C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.pdb
+C:\Users\Carlos\Desktop\Principal\PizzariaPoloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.exe.config
+C:\Users\Carlos\Desktop\Principal\PizzariaPoloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.exe
+C:\Users\Carlos\Desktop\Principal\PizzariaPoloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.pdb
