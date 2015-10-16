@@ -1,0 +1,18 @@
+﻿@model PizzariaPoloh.Web.Models.PedidoViewModel
+@{
+    ViewBag.Title = "Finalizado";
+    Layout = null;
+}
+
+<h1>Pedido finalizado, muito obrigado!</h1>
+<h2>O número do seu pedido é: @Model.PedidoId</h2>
+<br />
+<p>Confira abaixo o que foi solicitado:</p>
+<br />
+
+@foreach (var produto in Model.Produtos)
+{
+    <div>Nome: @produto.Nome</div>
+    <div>Preco: @produto.Preco</div>
+    <div>Qtd: @produto.Quantidade</div>
+}

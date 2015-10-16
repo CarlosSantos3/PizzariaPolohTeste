@@ -1,0 +1,11 @@
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.exe.config
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.exe
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.pdb
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPoloh.dll
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPoloh.pdb
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.exe
+C:\Users\Carlos\Desktop\Verity\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.pdb
+C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\bin\Debug\WSPizzariaPolohHospedagem.exe.config
+C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.exe
+C:\Users\Carlos\Desktop\PizzariaFinal\WCF Pizzaria Poloh\WSPizzariaPoloh\WSPizzariaPolohHospedagem\obj\Debug\WSPizzariaPolohHospedagem.pdb
